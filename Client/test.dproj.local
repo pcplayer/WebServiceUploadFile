@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/10 16:14:44.000.887,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/27 21:50:30.000.448,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/21 15:51:44.000.600,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/07 12:14:15.000.264,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/14 10:05:09.000.901,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017/03/14 10:05:17.000.723,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/03/17 11:58:42.000.759,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/04/11 10:32:48.000.466,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017/04/11 10:32:53.000.084,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:06:55.000.185,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/05/13 23:55:30.000.219,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/05/13 23:55:54.000.949,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.pas</Transaction>
+    <Transaction>2017/05/13 23:55:54.000.949,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.dfm</Transaction>
+    <Transaction>2017/05/13 23:55:58.000.732,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\test.dproj</Transaction>
+    <Transaction>2017/05/13 23:56:41.000.937,=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\TestAttachIntf.pas</Transaction>
+  </Transactions>
+</BorlandProject>

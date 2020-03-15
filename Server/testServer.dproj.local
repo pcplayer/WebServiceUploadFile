@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/10 16:14:44.000.887,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/27 21:50:30.000.448,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/21 15:51:44.000.600,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/07 12:14:15.000.264,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/14 10:05:09.000.901,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017/03/14 10:05:17.000.723,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/03/17 11:58:42.000.759,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/04/11 10:32:48.000.466,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017/04/11 10:32:53.000.084,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:06:55.000.185,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/05/13 23:52:46.000.747,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:52:46.000.938,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:52:59.000.302,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\TestAttachImpl.pas</Transaction>
+    <Transaction>2017/05/13 23:52:59.000.372,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\TestAttachIntf.pas</Transaction>
+    <Transaction>2017/05/13 23:53:11.000.636,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\TestAttachIntf.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\TestAttachIntf.pas</Transaction>
+    <Transaction>2017/05/13 23:53:12.000.971,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\TestAttachImpl.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\TestAttachImpl.pas</Transaction>
+    <Transaction>2017/05/13 23:53:14.000.274,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\FormUnit1.dfm</Transaction>
+    <Transaction>2017/05/13 23:53:14.000.274,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\FormUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:53:15.000.461,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2017/05/13 23:53:15.000.461,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\WebModuleUnit1.pas</Transaction>
+    <Transaction>2017/05/13 23:53:19.000.538,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\testServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
