@@ -12,9 +12,9 @@
     <Transaction>2017/04/11 10:32:53.000.084,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
     <Transaction>2017/05/13 23:06:55.000.185,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2017/05/13 23:55:30.000.219,=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2017/05/13 23:55:54.000.949,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.pas</Transaction>
-    <Transaction>2017/05/13 23:55:54.000.949,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.dfm</Transaction>
-    <Transaction>2017/05/13 23:55:58.000.732,C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\test.dproj</Transaction>
+    <Transaction>2017/05/13 23:55:54.000.949,E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.dfm=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/05/13 23:55:54.000.949,E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\Unit2.pas=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/05/13 23:55:58.000.732,E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Client\test.dproj=C:\Users\pcplayer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2017/05/13 23:56:41.000.937,=E:\Pro\通用自动在线升级\D10.2\Test\TestSoapAttachment\Server\TestAttachIntf.pas</Transaction>
   </Transactions>
 </BorlandProject>
